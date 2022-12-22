@@ -84,10 +84,3 @@ body {
 .hide {
   display: none;
 }
-@media (max-width:768px){
-  .memory-card {
-    width: 20%;
-    height: 15%;
-   
-  }
-}
